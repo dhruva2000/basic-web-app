@@ -1,6 +1,6 @@
 name: __BLANK 1__
 
-on:
+on: [push]
 
 push:
 
